@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+      <rect width="800" height="600" fill="#f3f4f6"/>
+      <text x="400" y="275" text-anchor="middle" font-size="100">💧</text>
+      <text x="400" y="380" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#111827">Water Bottle</text>
+    </svg>

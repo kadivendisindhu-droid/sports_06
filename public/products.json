@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Aero Run Pro Shoes",
+    "category": "Running",
+    "price": 2499,
+    "image": "https://images.pexels.com/photos/2286871/pexels-photo-2286871.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Sprint Training Shoes",
+    "category": "Running",
+    "price": 2799,
+    "image": "https://images.pexels.com/photos/10257963/pexels-photo-10257963.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 9
+  },
+  {
+    "id": 3,
+    "name": "Trail Runner Shoes",
+    "category": "Running",
+    "price": 3199,
+    "image": "https://images.pexels.com/photos/29603272/pexels-photo-29603272.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 6
+  },
+  {
+    "id": 4,
+    "name": "Match Football",
+    "category": "Football",
+    "price": 899,
+    "image": "https://images.pexels.com/photos/38675969/pexels-photo-38675969.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "name": "Training Football",
+    "category": "Football",
+    "price": 1099,
+    "image": "https://images.pexels.com/photos/9468611/pexels-photo-9468611.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 14
+  },
+  {
+    "id": 6,
+    "name": "Pro Soccer Ball",
+    "category": "Football",
+    "price": 749,
+    "image": "https://images.pexels.com/photos/12585829/pexels-photo-12585829.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 11
+  },
+  {
+    "id": 7,
+    "name": "English Willow Cricket Bat",
+    "category": "Cricket",
+    "price": 1899,
+    "image": "https://images.pexels.com/photos/35801178/pexels-photo-35801178.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 0
+  },
+  {
+    "id": 8,
+    "name": "Premium Cricket Bat",
+    "category": "Cricket",
+    "price": 2299,
+    "image": "https://images.pexels.com/photos/35823233/pexels-photo-35823233.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 5
+  },
+  {
+    "id": 9,
+    "name": "Bat & Ball Training Set",
+    "category": "Cricket",
+    "price": 1499,
+    "image": "https://images.pexels.com/photos/20652481/pexels-photo-20652481.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 7
+  },
+  {
+    "id": 10,
+    "name": "Sport Knee Brace",
+    "category": "Knee Support",
+    "price": 549,
+    "image": "https://images.pexels.com/photos/38527685/pexels-photo-38527685.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 8
+  },
+  {
+    "id": 11,
+    "name": "Knee Compression Support",
+    "category": "Knee Support",
+    "price": 649,
+    "image": "https://images.pexels.com/photos/6094057/pexels-photo-6094057.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 6
+  },
+  {
+    "id": 12,
+    "name": "Heavy-Duty Knee Support",
+    "category": "Knee Support",
+    "price": 749,
+    "image": "https://images.pexels.com/photos/34794724/pexels-photo-34794724.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "stock": 0
+  }
+]
